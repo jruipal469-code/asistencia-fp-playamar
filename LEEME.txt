@@ -1,0 +1,9 @@
+MI ASISTENCIA FP — IES PLAYAMAR
+
+Aplicación web progresiva (PWA) para alumnado de Formación Profesional.
+
+PUBLICACIÓN: sube todos los archivos de esta carpeta, sin cambiar sus nombres, a un alojamiento HTTPS (por ejemplo GitHub Pages o Netlify). Comparte la URL resultante con el alumnado. Abrir index.html desde un archivo local permite usar la calculadora, pero NO permite instalarla como PWA.
+
+INSTALACIÓN: iPhone: Safari > Compartir > Añadir a pantalla de inicio. Android: Chrome > Instalar aplicación / Añadir a pantalla de inicio.
+
+El límite de ausencias se introduce manualmente, según las reglas aplicables del centro y el módulo. La aplicación no determina efectos jurídicos o académicos sobre la evaluación continua.
