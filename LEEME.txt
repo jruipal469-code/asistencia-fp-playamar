@@ -1,0 +1,7 @@
+MI ASISTENCIA FP — IES PLAYAMAR
+
+Versión simplificada: introduce las horas totales del módulo y las horas de ausencia acumuladas. Se aplica automáticamente un límite del 20 % de ausencias (80 % de asistencia mínima).
+
+ACTUALIZAR GITHUB PAGES: sustituye los archivos index.html, app.js, sw.js y demás archivos del repositorio por los incluidos en este ZIP. Espera a que GitHub Pages publique los cambios. Si la versión antigua permanece instalada, cierra y vuelve a abrir la aplicación, o elimina los datos del sitio y reinstala.
+
+La calculadora es orientativa y no determina por sí sola los efectos académicos de las faltas.
