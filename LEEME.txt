@@ -1,0 +1,17 @@
+MI ASISTENCIA FP · PLAYAMAR TE ORIENTA
+
+Abre index.html para revisar el diseño y usar la calculadora.
+Conserva todos los archivos de esta carpeta juntos al alojarla.
+Se puede publicar como aplicación estática dentro de una subcarpeta propia.
+Para instalarla y disponer de uso sin conexión debe servirse por HTTPS.
+El servicio sin conexión solo cubre la carpeta de la calculadora.
+No guarda ni envía los datos introducidos.
+
+La versión conserva el criterio de cálculo del original (20 % de faltas).
+No se ha verificado su aplicación normativa. Consulta la programación del módulo.
+
+Para enlazarla en WordPress: añade un botón en Formación Profesional
+con el texto «Calcular mi asistencia en FP» y la URL donde se aloje.
+Si la web no permite subir HTML y JavaScript, aloja esta carpeta en un
+servicio de páginas estáticas y utiliza su URL en ese botón.
+No se ha publicado ni modificado la web existente.
